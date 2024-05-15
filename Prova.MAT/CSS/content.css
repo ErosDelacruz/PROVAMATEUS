@@ -1,0 +1,12 @@
+li img {
+                   width: 60px;
+                   margin-left: 350px;
+                   display: flex;
+                   justify-content: space-around;
+}
+
+.conteudo {
+                   display: flex;
+                   justify-content: space-around;
+                   margin-left: 600px;
+}

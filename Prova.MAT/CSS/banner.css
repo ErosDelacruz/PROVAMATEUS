@@ -1,0 +1,32 @@
+ .banner {
+                   background-image: url(../imagens/AB.jpg);
+                   height: 80vh;
+                   background-size: cover;
+                   background-repeat: no-repeat;
+                   width: 1910px;
+                   margin: 0;
+}
+
+
+.Stitle {
+                   color: rgb(247, 255, 252);
+                   text-align: center;
+                   margin: 0;
+                   padding-top: 270px;
+}
+
+.bnt {
+                   margin-left: 840px;
+}
+
+button {
+                   background-color: blue;
+                   border: 5px solid transparent;
+                   border-radius: 6px;
+                   color: white;
+}
+
+button:hover {
+                   background-color: rgb(41, 7, 74);
+                   color: blueviolet;
+}
